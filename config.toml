@@ -1,3 +1,53 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+theme = "showfolio"
+languageCode = "en-us"
+baseurl = "https://rodrigomiguel.eu"
+title = "Rodrigo Miguel"
+
+
+[params]
+  name = "Rodrigo Miguel"
+  description = "Junior wannabe developer and Digital Media graduate."
+  author = "Rodrigo Miguel"
+  authorEmail = "rodmiguel_@outlook.com"
+  authorImage = "photo.png"
+  autoDarkMode = true
+
+  copyright = "Copyright © 2022 - Rodrigo Miguel · All rights reserved"
+  favicon = "static/favicon.ico"
+
+[params.homepage]
+  title = "Hi! 👋 I'm Rodrigo Miguel"
+  tagline = "Digital Media graduate"
+  description = "Developing meaninful experiences and delivering results."
+  contact = "https://linkedin.com/in/rodmiguel/"
+
+[params.homepage.codepen]
+  username = "apvarun"
+  pens = ["MQaRKL", "RxodrP", "BmXGdm", "wdVypQ"]
+
+[params.homepage.resume]
+  skills = ["Visual Design", "Product Development"]
+
+[[params.homepage.resume.work]]
+  name = "CAEA Importação Lda"
+  role = "Social Media Manager"
+  duration = "June 2017 - Apr 2022"
+
+[[params.homepage.resume.courses]]
+  name = "BSc in Digital Media (2:1)"
+  provider = "Robert Gordon University"
+  duration = "September 2018 - June 2022"
+
+[params.homepage.social]
+  linkedin = "https://linkedin.com/in/rodmiguel/"
+  github = "https://github.com/rikof1"
+  reddit = "https://reddit.com/r/rikof1"
+  
+
+[build]
+  writeStats = true
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
