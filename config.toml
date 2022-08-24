@@ -12,6 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "Rodrigo Miguel"
   description = "Delivering all the time"
+  favicon = "/static/favicon.ico"
   avatarURL = "/profile.png"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
