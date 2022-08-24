@@ -39,10 +39,10 @@ pygmentsStyle = "monokai"
   """
   socialIcons = [
     {name = "linkedin", url = "https://linkedin.com/in/rodmiguel"},
+    {name = "github", url = "https://github.com/rikof1"},
     # {name = "stackoverflow", url = "https://stackoverflow.com/users/12298723/rikof1"},
     # {name = "twitch", url = "https://twitch.tv/rikof1"},
-    {name = "email", url = "mailto:rodmiguel_@outlook.com"},
-    {name = "github", url = "https://github.com/rikof1"}
+    {name = "email", url = "mailto:rodmiguel_@outlook.com"}    
   ]
   metaKeywords = ["blog", "gokarna", "hugo"]
 
