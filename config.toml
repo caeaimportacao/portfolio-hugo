@@ -74,20 +74,20 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     identifier = "github"
     pre = "<span data-feather='github'></span>"
-    url = "https://github.com/526avijitgupta/gokarna"
+    url = "https://github.com/rikof1"
     weight = 5
 
-  [[menu.main]]
-    identifier = "buymeacoffee"
-    pre = "<span data-feather='coffee'></span>"
-    url = "https://www.buymeacoffee.com/avijitgupta"
-    weight = 6
+  # [[menu.main]]
+  #  identifier = "buymeacoffee"
+  #  pre = "<span data-feather='coffee'></span>"
+  #  url = "https://www.buymeacoffee.com/avijitgupta"
+  #  weight = 6
 
-  [[menu.main]]
-    identifier = "rss"
-    pre = "<span data-feather='rss'></span>"
-    url = "/index.xml"
-    weight = 7
+  #[[menu.main]]
+  #  identifier = "rss"
+  #  pre = "<span data-feather='rss'></span>"
+  #  url = "/index.xml"
+  #  weight = 7
 
 [markup]
   [markup.tableOfContents]
