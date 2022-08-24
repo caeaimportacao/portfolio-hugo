@@ -5,6 +5,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
+favicon = "/static/favicon.ico"
 
 # Choose one of emacs, trac or perldoc
 pygmentsStyle = "monokai"
@@ -12,7 +13,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "Rodrigo Miguel"
   description = "Delivering all the time"
-  favicon = "/static/favicon.ico"
+  
   avatarURL = "/profile.png"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
