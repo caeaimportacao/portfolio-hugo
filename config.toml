@@ -12,9 +12,9 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "Rodrigo Miguel"
-  description = "Delivering all the time"
+  description = "Efficiency aficionado, reliable and trustworthy."
   
-  avatarURL = "/profile.png"
+  avatarURL = "/profile2.png"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   customHeadHTML = """
