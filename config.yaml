@@ -237,6 +237,18 @@ params:
           - icon: fab fa-github
             url: https://github.com/RikoF1/
 
+      - title: My First Website
+        content: My first website, which was blog stylised with a CV attached.
+        image:  /projects/my-first-portfolio-website.png
+        featured:
+          name: Github repo
+          link: https://github.com/RikoF1/my-first-portfolio-website
+        badges:
+        - "HTML"
+        - "CSS"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/RikoF1/    
       - title: Processing - Introduction
         content: Couple of projects introducing to coding, using Processing language.
         image:  /projects/introduction-processing.png
