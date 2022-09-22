@@ -267,7 +267,7 @@ params:
     #title: "Custom name"
     content: If you have a query or if you think I can be of help on a project, feel free to contact me. I try to reply promply.
     email: rodmiguel_@outlook.com
-    btnName: Mail me
+    btnName: Contact me
 
   footer:
     # recentPosts: false
