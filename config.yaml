@@ -103,7 +103,7 @@ params:
     title: "Rodrigo."
     subtitle: "I design media for a living"
     content: "Efficiency aficionado, reliable and technologically talented."
-    image: "/profile-b.png"
+    image: "/avatar.png"
     button:
       enable: true
       name: "Resume"
@@ -123,7 +123,7 @@ params:
   about:
     enable: true
     title: "About me"
-    # image: "/profile2.png"
+    image: "/profile-b.png"
     content: |- 
       I am a digital media designer/creator currently pursuing a Master's of Science in Financial Technology. Since young I have always enjoyed pursuing technological abiltiies and learning how-to and can-do with computers.
 
@@ -250,7 +250,7 @@ params:
           - icon: fab fa-github
             url: https://github.com/RikoF1/    
       - title: Processing - Introduction
-        content: Couple of projects introducing to coding, using Processing language.
+        content: Couple of projects as an introduction to coding, using Processing language.
         image:  /projects/introduction-processing.png
         featured:
           name: Github repo
