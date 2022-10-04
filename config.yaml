@@ -20,11 +20,11 @@ Menus:
       url: /blogs
       weight: 1
 
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
+    # - identifier: gallery
+    #   name: Gallery
+    #   title: Blog posts
+    #   url: /gallery
+    #   weight: 2
 
     #Dropdown menu
     # - identifier: dropdown
@@ -48,7 +48,7 @@ params:
   title: "Rodrigo Miguel"
   description: Starting point to show myself to the world.
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/avatar.png"
+  favicon: "/profile/avatar.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -103,7 +103,7 @@ params:
     title: "Rodrigo."
     subtitle: "I design media for a living"
     content: "Efficiency aficionado, reliable and technologically talented."
-    image: "/avatar.png"
+    image: "/profile/avatar.png"
     button:
       enable: true
       name: "Resume"
@@ -115,6 +115,7 @@ params:
         url: https://github.com/rikof1
       - icon: fab fa-linkedin
         url: https://linkedin.com/in/rodmiguel
+
 #      customIcons:
 #      - icon: /fav.png
 #        url: "https://example.com"
@@ -123,7 +124,7 @@ params:
   about:
     enable: true
     title: "About me"
-    image: "/profile-b.png"
+    image: "/profile/profile-b.png"
     content: |- 
       I am a digital media designer/creator currently pursuing a Master's of Science in Financial Technology. Since young I have always enjoyed pursuing technological abiltiies and learning how-to and can-do with computers.
 
@@ -133,7 +134,7 @@ params:
       title: "Program proficiency I have acquired over the years:"
       items:
         - "Photoshop"
-        - "Ilustrator"
+        - "Illustrator"
         - "Premiere Pro"
         - "Toon Boom Harmony"
         - "Unity"
@@ -211,6 +212,18 @@ params:
           - icon: fab fa-github
             url: https://github.com/RikoF1/
 
+      - title: 3D Character - Modelling & Animation
+        content: Modelling of a 3D Character and animation using Blender.
+        image:  /projects/3d-modelling-character.png
+        featured:
+          name: Artstation album
+          link: https://www.artstation.com/artwork/qQGWDN
+        badges:
+        - "Blender"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/RikoF1/
+
       - title: GamaCollection
         content: App directed to game collector's to have their collection values and games in one place.
         image:  /projects/gamacollection-final.png
@@ -224,6 +237,32 @@ params:
           - icon: fab fa-github
             url: https://github.com/RikoF1/
 
+      - title: 3D Modelling - Glamping Pod
+        content: 3D Architectural model of a Glamping pod. The main objective was to learn how to use Blender, create an asset, apply shaders and/or textures and render it.
+        image: /projects/3d-modelling-glamping-pod.png
+        featured:
+          name: Artstation album
+          link: https://www.artstation.com/artwork/14v0X3
+        badges:
+        - "Blender"
+        - "Photoshop"
+        links:
+          - icon: fab fa-artstation
+            url: https://www.artstation.com/rikof1
+
+      - title: Ferrari Movie Poster
+        content: Mockup-up movie done in photography module with the intent of capturing and editing a poster for a movie.
+        image: /projects/ferrari-movie-poster.png
+        featured:
+          name: Artstation album
+          link: https://www.artstation.com/artwork/Qn2vmB
+        badges:
+        - "Photoshop"
+        - "Photography"
+        links:
+          - icon: fab fa-artstation
+            url: https://www.artstation.com/rikof1
+
       - title: 2D Racing Game - Unity
         content: A racing game consisting of two tracks, with collisions and triggers, from loading to spinning elements.
         image:  /projects/2d-racing-game-unity.png
@@ -236,6 +275,11 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/RikoF1/
+
+      # - title: Animation
+      #   links:
+      #   - icon: fab fa-artstation
+      #     url: 
 
       - title: My First Website
         content: My first website, which was blog stylised with a CV attached.
