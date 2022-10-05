@@ -178,7 +178,7 @@ params:
         content: |-
           In this course I started by acquiring experience in HTML and CSS, designing logos and later touching into Animation. Game and App development were also main points of the course.
           
-          In Honours year, I completed my reseach and thesis on "Different perspectives in Compositing – Creating assets using 2D & 3D software to be used in fixed camera-shots" with the intent to publish on how different design philosophies would impact development of VFX scenes in time and skill.
+          In Honours year, I completed my reseach and thesis on "Different perspectives in Compositing – Creating assets using 2D & 3D software to be used in fixed camera-shots" with the intent to publish on how different design philosophies would impact development of VFX scenes in time and skill necessary during post-production.
   # projects
   projects:
     enable: true
@@ -198,6 +198,19 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/RikoF1/
+
+      - title: Trophier App - Prototype
+        content: My second portfolio website, which had a scrollable design and implement JavaScript.
+        image: /projects/trophier-app.png
+        featured:
+          name: Adobe XD Prototype
+          link: https://xd.adobe.com/view/2c135088-604c-40a8-8493-4722e22b465e-7940/
+        badges:
+        - "Adobe XD"
+        - "Photoshop"
+        links:
+          - icon: fab fa-artstation
+            url: https://www.artstation.com/rikof1
 
       - title: 3D Racing Game - Unity
         content: A racing game consisting of two tracks, with collisions and triggers, from loading to spinning elements.
@@ -221,8 +234,8 @@ params:
         badges:
         - "Blender"
         links:
-          - icon: fab fa-github
-            url: https://github.com/RikoF1/
+          - icon: fab fa-artstation
+            url: https://www.artstation.com/rikof1
 
       - title: GamaCollection
         content: App directed to game collector's to have their collection values and games in one place.
@@ -263,6 +276,19 @@ params:
           - icon: fab fa-artstation
             url: https://www.artstation.com/rikof1
 
+      - title: Renewable Energy (For Kids) - App Prototype
+        content: App prototype of a learning application that implements gamification to teach different types of renewable energy to children.
+        image: /projects/renewable-energy-app.png
+        featured:
+          name: Adobe XD Prototype
+          link: #
+        badges:
+        - "Adobe XD"
+        - "Photoshop"
+        links:
+          - icon: fab fa-artstation
+            url: https://www.artstation.com/rikof1
+
       - title: 2D Racing Game - Unity
         content: A racing game consisting of two tracks, with collisions and triggers, from loading to spinning elements.
         image:  /projects/2d-racing-game-unity.png
@@ -276,10 +302,19 @@ params:
           - icon: fab fa-github
             url: https://github.com/RikoF1/
 
-      # - title: Animation
-      #   links:
-      #   - icon: fab fa-artstation
-      #     url: 
+      - title: My Second Website
+        content: My second portfolio website, which had a scrollable design and implement JavaScript.
+        image: /projects/my-second-portfolio-website.png
+        featured:
+          name: Github repo
+          link: https://github.com/RikoF1/my-second-portfolio-website/
+        badges:
+        - "HTML"
+        - "CSS"
+        - "JavaScript"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/RikoF1/
 
       - title: My First Website
         content: My first website, which was blog stylised with a CV attached.
