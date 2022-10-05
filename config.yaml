@@ -200,7 +200,7 @@ params:
             url: https://github.com/RikoF1/
 
       - title: Trophier App - Prototype
-        content: My second portfolio website, which had a scrollable design and implement JavaScript.
+        content: App to follow your trophies/achievements in different platforms. Guides are also provided to achieve the Platinums.
         image: /projects/trophier-app.png
         featured:
           name: Adobe XD Prototype
