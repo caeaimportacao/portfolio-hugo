@@ -184,6 +184,21 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - title: Honour's Project - Thesis
+        content: Different perspectives in Compositing – Creating assets using 2D & 3D software to be used in fixed camera-shots.
+        image:  projects/honours-project.png
+        featured:
+          name: '[Soon] Github repo'
+          link: 
+        badges:
+        - "Blender"
+        - "Photoshop"
+        - "Premiere Pro"
+        - "After Effects"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/RikoF1/
+
       - title: VR Fashion Experience - Unity
         content: A Virtual Reality experience with the main focus of presenting fashion-styled items. 
         image:  projects/vr-fashion-experience-unity.png
@@ -198,6 +213,19 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/RikoF1/
+
+      - title: Lost in Beans - Short Movie
+        content: A short movie that involved beans, a weather reporter, camera work, voice-over and video-editing.
+        image:  projects/lost-in-beans.png
+        featured:
+          name: Youtube video
+          link: https://youtu.be/qk8obMAFmD8
+        badges:
+        - "Premiere Pro"
+        - "Audacity"
+        links:
+          - icon: fab fa-youtube
+            url: https://www.youtube.com/channel/UCPfbaQMb2uxr5wn0byJdOpQ
 
       - title: Trophier App - Prototype
         content: App to follow your trophies/achievements in different platforms. Guides are also provided to achieve the Platinums.
@@ -316,29 +344,29 @@ params:
           - icon: fab fa-github
             url: https://github.com/RikoF1/
 
-      - title: My First Website
-        content: My first website, which was blog stylised with a CV attached.
-        image:  /projects/my-first-portfolio-website.png
-        featured:
-          name: Github repo
-          link: https://github.com/RikoF1/my-first-portfolio-website
-        badges:
-        - "HTML"
-        - "CSS"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/RikoF1/    
-      - title: Processing - Introduction
-        content: Couple of projects as an introduction to coding, using Processing language.
-        image:  /projects/introduction-processing.png
-        featured:
-          name: Github repo
-          link: https://github.com/RikoF1/introduction-processing
-        badges:
-        - "Processing"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/RikoF1/    
+      # - title: My First Website
+      #   content: My first website, which was blog stylised with a CV attached.
+      #   image:  /projects/my-first-portfolio-website.png
+      #   featured:
+      #     name: Github repo
+      #     link: https://github.com/RikoF1/my-first-portfolio-website
+      #   badges:
+      #   - "HTML"
+      #   - "CSS"
+      #   links:
+      #     - icon: fab fa-github
+      #       url: https://github.com/RikoF1/    
+      # - title: Processing - Introduction
+      #   content: Couple of projects as an introduction to coding, using Processing language.
+      #   image:  /projects/introduction-processing.png
+      #   featured:
+      #     name: Github repo
+      #     link: https://github.com/RikoF1/introduction-processing
+      #   badges:
+      #   - "Processing"
+      #   links:
+      #     - icon: fab fa-github
+      #       url: https://github.com/RikoF1/    
   
   # Contact
   contact:
