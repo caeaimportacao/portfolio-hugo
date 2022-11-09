@@ -189,7 +189,7 @@ params:
         image:  projects/honours-project.png
         featured:
           name: '[Soon] Github repo'
-          link: 
+          link: https://github.com/RikoF1/vfx-honours-project
         badges:
         - "Blender"
         - "Photoshop"
