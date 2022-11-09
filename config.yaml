@@ -124,7 +124,7 @@ params:
   about:
     enable: true
     title: "About me"
-    image: "/profile/profile-b.png"
+    image: "/profile/profile.png"
     content: |- 
       I am a digital media designer/creator currently pursuing a Master's of Science in Financial Technology. Since young I have always enjoyed pursuing technological abiltiies and learning how-to and can-do with computers.
 
