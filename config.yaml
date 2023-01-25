@@ -126,9 +126,9 @@ params:
     title: "About me"
     image: "/profile/profile.png"
     content: |- 
-      I am a digital media designer/creator currently pursuing a Master's of Science in Financial Technology. Since young I have always enjoyed pursuing technological abiltiies and learning how-to and can-do with computers.
+      I am a digital media designer/creator currently pursuing a Master's of Science in Financial Technology. Since young I have always enjoyed pursuing technological abilties and learning how-to and can-do with computers.
 
-      Currently, I am living in Aberdeen, UK, while I finish my studies. In my free time I have a couple of projects I want to start and continue, mainly, learning Python and French.
+      Currently, I am living in Aberdeen, UK, whilst I finish my studies. In my free time I have a couple of projects I want to start and continue, mainly, learning Python and French.
     skills:
       enable: true
       title: "Program proficiency I have acquired over the years:"
