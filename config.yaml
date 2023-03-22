@@ -100,7 +100,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Rodrigo."
+    title: "Rodrigo,"
     subtitle: "I design media for a living"
     content: "Efficiency aficionado, reliable and technologically talented."
     image: "/profile/avatar.png"
