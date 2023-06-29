@@ -147,6 +147,16 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Business Owner"
+        company: "Madeira Leão Lda"
+        companyUrl: "https://madeiraleao.pt"
+        date: "June 2023 (part-time)"
+        featuredLink:
+          enable: true
+          name: Facebook page
+          url: "https://facebook.com/madeiraleao"
+        content: "Bought the company alongside 2 other people, with the objective of improving it and bringing new brands to the local market."
+
       - job: "Digital Media Content Manager"
         company: "CAEA Importação Lda"
         companyUrl: "https://caea.pt"
