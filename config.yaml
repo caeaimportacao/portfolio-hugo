@@ -181,7 +181,7 @@ params:
         content: |-
           Course focused on finance and technology, with the introduction to certain technologies, with basis on Python, working on Machine Learning, Cyber Security, Database systems. Got introduced to Mathematical concepts in finance, such as Discrete and Continuous Time Models, focusing on calls, loans, puts and other financial instruments.
 
-          For my dissertation, I picked the topic "Credit Scoring - Algorithms Efficiency with Growing Data", where I researched and investigated, using machine learning algorithms how different amounts of data change results both in time and accuracy alike. The results concluded on how some algorithms fared better than others when dealing with continuously longer datasets and why efficiency is an important factor in data science.
+          For my dissertation, I picked the topic "Credit Scoring - Algorithms Efficiency with Growing Data", where I researched and investigated, using machine learning algorithms how different amounts of data change results both in time and accuracy alike. The results concluded on how some algorithms fared better than others when dealing with continuously longer datasets and why efficiency is an important factor in Machine Learning applications.
       - title: "Bachelor of Science (Hons) - Digital Media"
         school:
           name: "Robert Gordon University"
