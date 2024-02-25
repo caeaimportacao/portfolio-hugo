@@ -191,7 +191,7 @@ params:
         content: |-
           In this course I started by acquiring experience in HTML and CSS, designing logos and later touching into Animation. Game and App development were also main points of the course.
           
-          In Honours year, I completed my reseach and thesis on "Different perspectives in Compositing – Creating assets using 2D & 3D software to be used in fixed camera-shots" with the intent to publish on how different design philosophies would impact development of VFX scenes in time and skill necessary during post-production.
+          In Honours year, I completed my research and thesis on "Different perspectives in Compositing – Creating assets using 2D & 3D software to be used in fixed camera-shots" with the intent to publish on how different design philosophies would impact development of VFX scenes in time and skill necessary during post-production.
   # projects
   projects:
     enable: true
